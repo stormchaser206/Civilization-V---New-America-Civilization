@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2014 8:29:32 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_USA_ADJECTIVE">
+			<Text>United Statesian</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_USA_DESC">
+			<Text>United Statesian Empire</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_USA_SHORT_DESC">
+			<Text>United States</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_USA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_USA_TEXT_1">
+			<Text>The United States of America was first unofficially declared independant on July 4, 1776. However, it was not recognized by the British until September 3, 1783, when the Treaty of Paris was signed, which ended the Revolutionary War and gave the USA its freedom. The next war they had was in 1812, also with the British. This ended a few years later. The next major conflict was the Civil War, which remains the deadliest war in US military history, with 618,000 military casualties, along with many civilians. The USA mostly remained at peace, except for the Spanish-American war, until World War I. At first, nobody wanted to get involved in a European war. But then, the US intercepted a telegram from Germany to Mexico, saying they would fund a war against the United States so the US would be distracted from Europe. This caused the US to enter the war. In 1919, World War I ended. Then came the great depression, and the dust bowl soon to go with it. Then, on December 7, 1941, the Empire of Japan launched a surprise attack on the US Naval fleet at Pearl Harbor. This was when the US entered World War II. At first, the US was losing the war. Then, in 1942, the US won a decisive victory in the Battle of Midway, sinking 4 enemy carriers while only losing one. The US was successful in the war after that, with the United States's overwhelming industrial capacity. In 1945, Japan was still not giving up. In early August, the US dropped two atomic bombs on Japan, forcing them to surrender. After that, it was the Cold War. In 1991, the Cold War ended with the collapse of the Soviet Union. The US has been going extremely well ever since.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EISENHOWER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EISENHOWER_TEXT_1">
+			<Text>Dwight D. Eisenhower was a great military leader and president. He was the one who planned all of D-Day, and most of World War II in Europe. When he became president in 1952, he made the Interstate Highway System. In 1957, he lost the space race to the Soviet Union. In 1960, he had a major embarrassmant, when a U-2 Spy plane was shot down while spying on the Soviet Union. By 1955, his health was getting bad, as he had a serious heart attack that year from smoking. He had good health in his last three years of office. In 1969, he died of congestive heart failure.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EISENHOWER_LIVED">
+			<Text>1890 - 1969</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EISENHOWER_NAME">
+			<Text>Dwight D. Eisenhower</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EISENHOWER_SUBTITLE">
+			<Text>Great Strategist</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_EISENHOWER">
+			<Text>Dwight D. Eisenhower</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_WASHINGTONDC">
+			<Text>Washington D.C.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_NEWYORKCITY">
+			<Text>New York City</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_BOSTON">
+			<Text>Boston</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_BALTIMORE">
+			<Text>Baltimore</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_PHILADELPHIA">
+			<Text>Philadelphia</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RICHMOND">
+			<Text>Richmond</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHICAGO">
+			<Text>Chicago</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_ATLANTA">
+			<Text>Atlanta</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_INDIANAPOLIS">
+			<Text>Indianapolis</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_SANFRANCISCO">
+			<Text>San Francisco</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_LOSANGELES">
+			<Text>Los Angeles</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_DALLAS">
+			<Text>Dallas</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_HOUSTON">
+			<Text>Houston</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_KANSASCITY">
+			<Text>Kansas City</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_OMAHA">
+			<Text>Omaha</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_DESMOINES">
+			<Text>Des Moines</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_SEATTLE">
+			<Text>Seattle</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_DENVER">
+			<Text>Denver</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_SALTLAKECITY">
+			<Text>Salt Lake City</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_PHEONIX">
+			<Text>Pheonix</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_OKLAHOMACITY">
+			<Text>Oklahoma City</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_NORMON">
+			<Text>Boston</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_BUFFALO">
+			<Text>Buffalo</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_MILITARY_PRIDE">
+			<Text>Gun units can attack two times in one turn.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_MILITARY_PRIDE_SHORT">
+			<Text>Military Pride</Text>
+		</Row>
+	</Language_en_US>  
+</GameData>

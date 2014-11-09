@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2014 2:48:23 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MILITARY_PRIDE</Type>
+			<Description>TXT_KEY_TRAIT_MILITARY_PRIDE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MILITARY_PRIDE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_MILITARY_PRIDE</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_SECOND_ATTACK</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>

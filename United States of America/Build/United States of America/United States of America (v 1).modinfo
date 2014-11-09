@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4fcbe966-6e11-4488-998a-9dc8f9c53691" version="1">
+  <Properties>
+    <Name>United States of America</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This is basically a new USA civilization. It has new unique units and a new leader.</Teaser>
+    <Description>This is basically a new USA civilization. It has new things, let's just go with that.
+
+Leader: Dwight D. Eisenhower
+
+Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
+    <Authors>stormchaser206</Authors>
+    <SpecialThanks>Myself</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6021D1CD19E9D7D37C5456EF65C50928" import="0">Art/EisenhowerIcon128.dds</File>
+    <File md5="FC56DB2F3371E721DD176345FCD1D5C1" import="0">Art/EisenhowerIcon256.dds</File>
+    <File md5="0BEA07B0B605308E1DD8FB01B7A3CEB8" import="0">Art/EisenhowerIcon64.dds</File>
+    <File md5="21FD0B691B3C2617089B35A3973AA913" import="0">Art/USCivIcon128.dds</File>
+    <File md5="3586955CFF475D41AB60287560D023B7" import="0">Art/USCivIcon256.dds</File>
+    <File md5="26F35E1B7B4E32C2DACB01537EE5B462" import="0">Art/USCivIcon32.dds</File>
+    <File md5="9E271AEE5087B20F7E4933B68C7F9150" import="0">Art/USCivIcon45.dds</File>
+    <File md5="C6B58FF571EB3968780071E3F7BD1915" import="0">Art/USCivIcon64.dds</File>
+    <File md5="D2382E5B3BD484A552D14CD2E4CE8C2C" import="0">Art/USCivIcon80.dds</File>
+    <File md5="8005C777450EE0287F1B19A30A5CA9F9" import="0">Art/USLeaderBackground.dds</File>
+    <File md5="F43EBCA6471FA6F7585E920A2ED6DF80" import="0">XML/Civilizations/CIV5Traits.xml</File>
+    <File md5="9037CF6CCD061BC74F82F97B85397242" import="0">XML/Civilizations/Civ_USA.xml</File>
+    <File md5="8D0D368CD9B8F74AD072CF60FB7E3EC9" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
+    <File md5="5B53DB2D82083B8B87FAE2A51BDAFE97" import="0">XML/Leaders/CIV5Leader_Eisenhower.xml</File>
+    <File md5="C08406A8A2D9CA2C67AF94F84208DC73" import="0">XML/New Text/USA_Civ_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilizations/Civ_USA.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/USA_Civ_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/CIV5Leader_Eisenhower.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
