@@ -12,7 +12,7 @@
 
 Leader: Dwight D. Eisenhower
 
-Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
+Unique Units: F-16 and the Worker of America</Description>
     <Authors>stormchaser206</Authors>
     <SpecialThanks>Myself</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
@@ -42,6 +42,11 @@ Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Leaders/CIV5Leader_Eisenhower.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Units/CIV5Units.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -63,6 +68,7 @@ Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
     <Folder Include="XML\Civilizations" />
     <Folder Include="XML\GameInfo" />
     <Folder Include="XML\Leaders" />
+    <Folder Include="XML\Units" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Art\EisenhowerIcon128.dds">
@@ -122,6 +128,10 @@ Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\New Text\USA_Civ_Text.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Units\CIV5Units.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

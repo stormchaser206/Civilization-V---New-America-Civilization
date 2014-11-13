@@ -138,12 +138,44 @@
 			<Text>Buffalo</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_TRAIT_MILITARY_PRIDE">
-			<Text>Gun units can attack two times in one turn.</Text>
+		<Row Tag="TXT_KEY_TRAIT_WORKERS_OF_AMERICA">
+			<Text>+8% [ICON_PRODUCTION] in every city.</Text>
 		</Row>
 		
-		<Row Tag="TXT_KEY_TRAIT_MILITARY_PRIDE_SHORT">
-			<Text>Military Pride</Text>
+		<Row Tag="TXT_KEY_TRAIT_WORKERS_OF_AMERICA_SHORT">
+			<Text>Workers of America</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_WORKER_OF_AMERICA">
+			<Text>Worker of America</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HELP_WORKER_OF_AMERICA">
+			<Text>The Worker of America has 4 [ICON_MOVEMENT] movement points, 10 less [ICON_PRODUCTION] required than the regular worker, ignores terrain cost, and works faster. It replaces the worker.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKER_OF_AMERICA_TEXT">
+			<Text>The Worker of America replaces the worker. It works faster, costs 10 less [ICON_PRODUCTION] than the regular worker to build, has 4 more [ICON_MOVEMENT] movement points, and ignores terrain cost. This makes it excellent for quickly building improvements, rebuilding pillaged improvements, and to scrub nuclear waste faster.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_WORKER_OF_AMERICA_STRATEGY">
+			<Text>Use the Worker of America to quickly build or rebuild improvements. It also can be used to scrub nuclear fallout faster.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_F16">
+			<Text>F-16</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HELP_F16">
+			<Text>The F-16 is a United States fighter jet that replaces the jet fighter. It has 3 more range than the regular jet fighter, 10 less [ICON_PRODUCTION], and has 10 more combat points.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_F16_TEXT">
+			<Text>The F-16 is a unique unit of the United States of America civilization. It replaces the jet fghter. It has 3 more range, 10 less [ICON_PRODUCTION] required to build, and has 10 more combat points. This gives the United States of America a boost in air superiority.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_F16_STRATEGY">
+			<Text>Use the F-16  to gain air superiority in air battles.</Text>
 		</Row>
 	</Language_en_US>  
 </GameData>

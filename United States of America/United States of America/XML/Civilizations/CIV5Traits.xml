@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 11/8/2014 2:48:23 PM -->
 <GameData>
-	<Traits>
+	<Trait_YieldModifiers>
 		<Row>
-			<Type>TRAIT_MILITARY_PRIDE</Type>
-			<Description>TXT_KEY_TRAIT_MILITARY_PRIDE</Description>
-			<ShortDescription>TXT_KEY_TRAIT_MILITARY_PRIDE_SHORT</ShortDescription>
+			<TraitType>TRAIT_WORKERS_OF_AMERICA</TraitType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>8</Yield>
 		</Row>
-	</Traits>
-	<Trait_FreePromotionUnitCombats>
-		<Row>
-			<TraitType>TRAIT_MILITARY_PRIDE</TraitType>
-			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
-			<PromotionType>PROMOTION_SECOND_ATTACK</PromotionType>
-		</Row>
-	</Trait_FreePromotionUnitCombats>
+	</Trait_YieldModifiers>
 </GameData>

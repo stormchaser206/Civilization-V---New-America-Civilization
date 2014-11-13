@@ -163,7 +163,27 @@
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
 				<StartAlongOcean>true</StartAlongOcean>
 			</Row>
-		</Civilization_Start_Along_Ocean>>
+		</Civilization_Start_Along_Ocean>
+
+		<Civilization_UnitClassOverrides>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+				<UnitType>UNIT_WORKER_OF_AMERICA</UnitType>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+				<UnitType>UNIT_WORKER_OF_AMERICA</UnitType>
+			</Row>
+		</Civilization_UnitClassOverrides>
+
+		<Leader_Traits>
+			<Update>
+				<Set TraitType="TRAIT_WORKERS_OF_AMERICA"/>
+				<Where LeaderType="LEADER_EISENHOWER"/>
+			</Update>
+		</Leader_Traits>
 	</GameData>
 
 </GameData>

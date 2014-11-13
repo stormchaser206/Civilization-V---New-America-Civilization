@@ -8,7 +8,7 @@
 
 Leader: Dwight D. Eisenhower
 
-Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
+Unique Units: F-16 and the Worker of America</Description>
     <Authors>stormchaser206</Authors>
     <SpecialThanks>Myself</SpecialThanks>
     <HideSetupGame>0</HideSetupGame>
@@ -37,17 +37,19 @@ Unique Units: F-16, Howitzer, Worker of America, P-51 Mustang</Description>
     <File md5="C6B58FF571EB3968780071E3F7BD1915" import="0">Art/USCivIcon64.dds</File>
     <File md5="D2382E5B3BD484A552D14CD2E4CE8C2C" import="0">Art/USCivIcon80.dds</File>
     <File md5="8005C777450EE0287F1B19A30A5CA9F9" import="0">Art/USLeaderBackground.dds</File>
-    <File md5="F43EBCA6471FA6F7585E920A2ED6DF80" import="0">XML/Civilizations/CIV5Traits.xml</File>
-    <File md5="9037CF6CCD061BC74F82F97B85397242" import="0">XML/Civilizations/Civ_USA.xml</File>
+    <File md5="DE51881C3B37BFA2189F9850F906B86B" import="0">XML/Civilizations/CIV5Traits.xml</File>
+    <File md5="35326849CA03C8CF1F5F83A681638ABC" import="0">XML/Civilizations/Civ_USA.xml</File>
     <File md5="8D0D368CD9B8F74AD072CF60FB7E3EC9" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
-    <File md5="5B53DB2D82083B8B87FAE2A51BDAFE97" import="0">XML/Leaders/CIV5Leader_Eisenhower.xml</File>
-    <File md5="C08406A8A2D9CA2C67AF94F84208DC73" import="0">XML/New Text/USA_Civ_Text.xml</File>
+    <File md5="CA4A899C95367F3562DE32274CDC9683" import="0">XML/Leaders/CIV5Leader_Eisenhower.xml</File>
+    <File md5="C7BB9F51102795BE97675D154FBCFB08" import="0">XML/New Text/USA_Civ_Text.xml</File>
+    <File md5="F842D450A03620018E9F5A1E3A8222EB" import="0">XML/Units/CIV5Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
       <UpdateDatabase>XML/Civilizations/Civ_USA.xml</UpdateDatabase>
       <UpdateDatabase>XML/New Text/USA_Civ_Text.xml</UpdateDatabase>
       <UpdateDatabase>XML/Leaders/CIV5Leader_Eisenhower.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CIV5Units.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>
