@@ -46,95 +46,95 @@
 			<Text>Dwight D. Eisenhower</Text>
 		</Row>
 		
-		<Row Tag="TXT_KEY_CITY_NAME_WASHINGTONDC">
+		<Row Tag="TXT_KEY_USACITY_WASHINGTONDC">
 			<Text>Washington D.C.</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_NEWYORKCITY">
+		<Row Tag="TXT_KEY_USACITY_NEWYORKCITY">
 			<Text>New York City</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_BOSTON">
+		<Row Tag="TXT_KEY_USACITY_BOSTON">
 			<Text>Boston</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_BALTIMORE">
+		<Row Tag="TXT_KEY_USACITY_BALTIMORE">
 			<Text>Baltimore</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_PHILADELPHIA">
+		<Row Tag="TXT_KEY_USACITY_PHILADELPHIA">
 			<Text>Philadelphia</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_RICHMOND">
+		<Row Tag="TXT_KEY_USACITY_RICHMOND">
 			<Text>Richmond</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_CHICAGO">
+		<Row Tag="TXT_KEY_USACITY_CHICAGO">
 			<Text>Chicago</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_ATLANTA">
+		<Row Tag="TXT_KEY_USACITY_ATLANTA">
 			<Text>Atlanta</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_INDIANAPOLIS">
+		<Row Tag="TXT_KEY_USACITY_INDIANAPOLIS">
 			<Text>Indianapolis</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_SANFRANCISCO">
+		<Row Tag="TXT_KEY_USACITY_SANFRANCISCO">
 			<Text>San Francisco</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_LOSANGELES">
+		<Row Tag="TXT_KEY_USACITY_LOSANGELES">
 			<Text>Los Angeles</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_DALLAS">
+		<Row Tag="TXT_KEY_USACITY_DALLAS">
 			<Text>Dallas</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_HOUSTON">
+		<Row Tag="TXT_KEY_USACITY_HOUSTON">
 			<Text>Houston</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_KANSASCITY">
+		<Row Tag="TXT_KEY_USACITY_KANSASCITY">
 			<Text>Kansas City</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_OMAHA">
+		<Row Tag="TXT_KEY_USACITY_OMAHA">
 			<Text>Omaha</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_DESMOINES">
+		<Row Tag="TXT_KEY_USACITY_DESMOINES">
 			<Text>Des Moines</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_SEATTLE">
+		<Row Tag="TXT_KEY_USACITY_SEATTLE">
 			<Text>Seattle</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_DENVER">
+		<Row Tag="TXT_KEY_USACITY_DENVER">
 			<Text>Denver</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_SALTLAKECITY">
+		<Row Tag="TXT_KEY_USACITY_SALTLAKECITY">
 			<Text>Salt Lake City</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_PHEONIX">
+		<Row Tag="TXT_KEY_USACITY_PHEONIX">
 			<Text>Pheonix</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_OKLAHOMACITY">
+		<Row Tag="TXT_KEY_USACITY_OKLAHOMACITY">
 			<Text>Oklahoma City</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_NORMON">
+		<Row Tag="TXT_KEY_USACITY_NORMON">
 			<Text>Boston</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_CITY_NAME_BUFFALO">
+		<Row Tag="TXT_KEY_USACITY_BUFFALO">
 			<Text>Buffalo</Text>
 		</Row>
 
@@ -176,6 +176,46 @@
 
 		<Row Tag="TXT_KEY_UNIT_F16_STRATEGY">
 			<Text>Use the F-16  to gain air superiority in air battles.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_0">
+			<Text>Caleb Brewster</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_1">
+			<Text>Abraham Woodhull</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_2">
+			<Text>George Curtis</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_3">
+			<Text>Harriet Tubman</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_4">
+			<Text>Kate Warne</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_5">
+			<Text>Sylvanus Morley</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_6">
+			<Text>Julia Child</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_7">
+			<Text>John Birch</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_8">
+			<Text>Milton Bearden</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_USA_9">
+			<Text>Philip Agee</Text>
 		</Row>
 	</Language_en_US>  
 </GameData>

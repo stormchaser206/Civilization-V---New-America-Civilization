@@ -26,95 +26,95 @@
 		<Civilization_CityNames>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_WASHINGTONDC</CityName>
+				<CityName>TXT_KEY_USACITY_WASHINGTONDC</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_NEWYORKCITY</CityName>
+				<CityName>TXT_KEY_USACITY_NEWYORKCITY</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_BOSTON</CityName>
+				<CityName>TXT_KEY_USACITY_BOSTON</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_BALTIMORE</CityName>
+				<CityName>TXT_KEY_USACITY_BALTIMORE</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_PHILADELPHIA</CityName>
+				<CityName>TXT_KEY_USACITY_PHILADELPHIA</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_RICHMOND</CityName>
+				<CityName>TXT_KEY_USACITY_RICHMOND</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_CHICAGO</CityName>
+				<CityName>TXT_KEY_USACITY_CHICAGO</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_ATLANTA</CityName>
+				<CityName>TXT_KEY_USACITY_ATLANTA</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_INDIANAPOLIS</CityName>
+				<CityName>TXT_KEY_USACITY_INDIANAPOLIS</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_SANFRANCISCO</CityName>
+				<CityName>TXT_KEY_USACITY_SANFRANCISCO</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_LOSANGELES</CityName>
+				<CityName>TXT_KEY_USACITY_LOSANGELES</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_DALLAS</CityName>
+				<CityName>TXT_KEY_USACITY_DALLAS</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_HOUSTON</CityName>
+				<CityName>TXT_KEY_USACITY_HOUSTON</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_KANSASCITY</CityName>
+				<CityName>TXT_KEY_USACITY_KANSASCITY</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_OMAHA</CityName>
+				<CityName>TXT_KEY_USACITY_OMAHA</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_DESMOINES</CityName>
+				<CityName>TXT_KEY_USACITY_DESMOINES</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_SEATTLE</CityName>
+				<CityName>TXT_KEY_USACITY_SEATTLE</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_DENVER</CityName>
+				<CityName>TXT_KEY_USACITY_DENVER</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_SALTLAKECITY</CityName>
+				<CityName>TXT_KEY_USACITY_SALTLAKECITY</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_PHEONIX</CityName>
+				<CityName>TXT_KEY_USACITY_PHEONIX</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_OKLAHOMACITY</CityName>
+				<CityName>TXT_KEY_USACITY_OKLAHOMACITY</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_NORMON</CityName>
+				<CityName>TXT_KEY_USACITY_NORMON</CityName>
 			</Row>
 			<Row>
 				<CivilizationType>CIVILIZATION_USA</CivilizationType>
-				<CityName>TXT_KEY_CITY_NAME_BUFFALO</CityName>
+				<CityName>TXT_KEY_USACITY_BUFFALO</CityName>
 			</Row>
 		</Civilization_CityNames>
 		<Civilization_FreeBuildingClasses>
@@ -184,6 +184,56 @@
 				<Where LeaderType="LEADER_EISENHOWER"/>
 			</Update>
 		</Leader_Traits>
+
+		<Civilization_Religions>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+			</Row>
+		</Civilization_Religions>
+
+		<Civilization_SpyNames>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_0</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_1</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_2</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_3</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_4</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_5</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_6</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_7</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_8</SpyName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_USA</CivilizationType>
+				<SpyName>TXT_KEY_SPY_NAME_USA_9</SpyName>
+			</Row>
+		</Civilization_SpyNames>
 	</GameData>
 
 </GameData>

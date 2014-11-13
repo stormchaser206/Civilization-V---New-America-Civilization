@@ -38,10 +38,10 @@ Unique Units: F-16 and the Worker of America</Description>
     <File md5="D2382E5B3BD484A552D14CD2E4CE8C2C" import="0">Art/USCivIcon80.dds</File>
     <File md5="8005C777450EE0287F1B19A30A5CA9F9" import="0">Art/USLeaderBackground.dds</File>
     <File md5="DE51881C3B37BFA2189F9850F906B86B" import="0">XML/Civilizations/CIV5Traits.xml</File>
-    <File md5="35326849CA03C8CF1F5F83A681638ABC" import="0">XML/Civilizations/Civ_USA.xml</File>
+    <File md5="F4C42C2F5F03666AF96847290A37E402" import="0">XML/Civilizations/Civ_USA.xml</File>
     <File md5="8D0D368CD9B8F74AD072CF60FB7E3EC9" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
     <File md5="CA4A899C95367F3562DE32274CDC9683" import="0">XML/Leaders/CIV5Leader_Eisenhower.xml</File>
-    <File md5="C7BB9F51102795BE97675D154FBCFB08" import="0">XML/New Text/USA_Civ_Text.xml</File>
+    <File md5="D1D63B9505FBE7DEFDDD6431EA7A80E7" import="0">XML/New Text/USA_Civ_Text.xml</File>
     <File md5="F842D450A03620018E9F5A1E3A8222EB" import="0">XML/Units/CIV5Units.xml</File>
   </Files>
   <Actions>
